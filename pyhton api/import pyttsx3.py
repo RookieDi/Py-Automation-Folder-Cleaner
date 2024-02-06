@@ -3,7 +3,7 @@ import pyttsx3
 import speech_recognition as sr
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = ""
 openai.api_key = api_key
 
 engine = pyttsx3.init()
